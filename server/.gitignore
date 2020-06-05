@@ -113,3 +113,6 @@ ormconfig.json
 uploads/*
 
 *.sqlite
+
+!uploads/Capa.png
+!uploads/.gitkeep
