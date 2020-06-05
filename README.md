@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Next Level Week" src="https://drive.google.com/file/d/16Byq4aMf2SlELCeLqq0UqNCT3M0cvHDL/view" />
+    <img alt="Next Level Week" src="server/uploads/Capa.png" />
     <br>
     Next Level Week - Ecoleta
 </h1>
